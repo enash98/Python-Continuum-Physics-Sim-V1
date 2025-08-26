@@ -5,8 +5,8 @@ Including simulations for:
 * Heat Conduction, or Diffusion within "static" Gases -- Numerical solver for the heat equation, with sourcing
 * Quantum Wavefunctions -- Numerical solver for the Schrodinger equation (Work in progress)
 
-This framework takes advantage of Object Oriented Programming concepts to provide more versatile simulations, in comparison to my previous fluid simulations (FS-V1,V2,V3)
+This framework takes advantage of Object Oriented Programming concepts to provide more versatile simulations, in contrast to my previous fluid simulations (FS-V1,V2,V3)
 
-The boundary conditions are fully configurable: one can choose dirichlet (fixed value) or Neumann (fixed normal derivative) conditions for the fields on each of the 4 boundaries.
+The boundary conditions are fully configurable: one can choose Dirichlet (fixed value) or Neumann (fixed normal derivative) conditions for the fields on each of the 4 boundaries.
 
 I plan to coninue to add new simulations to this frame work.
